@@ -1,0 +1,16 @@
+
+.\genmv_1.bat
+
+.\genmv_2.bat
+
+.\genmv_3.bat L (Vérifier la liste actuelle)
+
+.\genmv_3.bat N serveur1 (Créer une nouvelle machine nommée serveur1)
+
+.\genmv_3.bat D serveur1 (Démarrer la machine)
+
+.\genmv_3.bat A serveur1 (Arrêter la machine)
+
+.\genmv_3.bat S serveur1 (Supprimer la machine)
+
+.\genmv_4.bat
