@@ -5,6 +5,9 @@ NOM CHEF DE PROJET : Kylan DELPOUVE
 NOMS AUTRE MEMBRES EQUIPE : Tanjona RANDRIANARISOLO
 DATE DEBUT : 16/09/2026
 
+Ce document décrit l'utilisation des scripts Windows genmv_X.bat, qui pilotent VirtualBox en ligne de commande (VBoxManage) pour lister, créer, supprimer, démarrer et arrêter des machines virtuelles Debian de façon non interactive. 
+Il présente le travail réalisé séance par séance (étapes 1 à 4 terminées, boot PXE/TFTP en cours), les difficultés rencontrées, les astuces techniques utilisées et les limites actuelles.
+
 1. Utilisation
 
 Le script est non interactif : tout passe par les arguments (Windows, genmv_4.bat = dernière version fonctionnelle).
